@@ -197,6 +197,8 @@ body {
 
 .carrousel_images{
     object-fit: cover;
+    height: 200px;
+
     }
 
 
@@ -270,6 +272,7 @@ body {
 
 .carrousel_images{
     object-fit: cover;
+    height: 130px;
 
     }
 
